@@ -1,3 +1,5 @@
+![lol](./assets/one.png)
+
 <div align="center">
 
 # Flagship Projects
