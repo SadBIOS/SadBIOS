@@ -1,3 +1,5 @@
+![banner](./assets/banner.png)
+
 <p align="center">
   <a href="https://github.com/SadBIOS/Arduino-Minimal-DE">
     <img src="./assets/one.png" width="48%" alt="Arduino Minimal DE">
